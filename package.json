@@ -1,0 +1,15 @@
+{
+  "name": "exemplo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Eric",
+  "license": "ISC",
+  "description": "Trabalhando com array e biblioteca Math",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
